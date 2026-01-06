@@ -36,7 +36,7 @@ Jika halaman 1: ```(1-1) * 10 = 0``` mengambil dari baris ke-0, dan halaman 2:``
 - Login
 ![gambar](login.png)
 - Dashboard Admin:
-![gambar](dashboardadmin)
+![gambar](dashboardadmin.png)
 - Produk
 ![gambar](produk.png)
 - Laporan
