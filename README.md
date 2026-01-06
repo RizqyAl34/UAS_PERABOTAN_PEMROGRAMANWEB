@@ -42,4 +42,4 @@ Jika halaman 1: ```(1-1) * 10 = 0``` mengambil dari baris ke-0, dan halaman 2:``
 - Laporan
 ![gambar](laporan.png)
 - Dashboard User:
-![gambar](dashboarduser)
+![gambar](dashboarduser.png)
