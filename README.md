@@ -29,8 +29,8 @@ Pagination bekerja agar server tidak berat saat memuat ribuan data dalam sekalig
 ```$halamanAktif = isset($_GET['page']) ? (int)$_GET['page'] : 1;``` dan Offset ini adalah bagian yang lumayan penting, karena offset ini berfungsi sebagai dimanakan baris pertama dimulai
 Jika halaman 1: ```(1-1) * 10 = 0``` mengambil dari baris ke-0, dan halaman 2:```(2-1) * 10 = 10``` Lompati baris 10 pertama, ambil dari baris ke-11.
 - Pagination:
-![gambar](pagination)
-![gambar](pagination2)
+![gambar](pagination.png)
+![gambar](pagination2.png)
 
 ## Screenshhot UI
 - Login
